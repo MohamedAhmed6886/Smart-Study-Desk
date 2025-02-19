@@ -1,0 +1,1 @@
+Smart-Study-Desk: designing a smart study desk such that it can sense the presence of the user and enhance the light intensity of the room if needed. Once the user approaches the desk he/she shall be able to grab what he/she needs from the drawer of the desk. Finally, the desk should record and display how much time the user used the desk.
